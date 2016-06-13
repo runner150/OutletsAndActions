@@ -18,7 +18,7 @@
 @property (nonatomic,weak) IBOutlet UITextField *firstNameTextField;
 @property (nonatomic,weak) IBOutlet UITextField *lastNameTextField;
 
-- (IBAction)submitButtonClicked:(UIButton *)sender;
+
 
 
 
@@ -59,6 +59,6 @@
 }
 
 
-- (IBAction)submitButtonClicked:(id)sender {
-}
+
+
 @end
